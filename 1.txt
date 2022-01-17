@@ -1,0 +1,12 @@
+//Hello world! programme//
+ 
+
+namespace Hello world
+{
+   class Hello{
+          static void mail(string[] args)
+          {
+            system.console.writeline("Hello world")
+          }
+       }
+}
